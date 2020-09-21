@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c45744-3126-4afe-8be0-df4a5140f2ed" name="Default Changelist" comment="" />
+    <list default="true" id="03c45744-3126-4afe-8be0-df4a5140f2ed" name="Default Changelist" comment="Basic Laravel Project with working Welcome/Detail/About Page.">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AddController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AddController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +33,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -135,14 +152,16 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1h2siEjNWCvDa07x9e45UQhqmYL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -175,17 +194,46 @@
       <workItem from="1599953813033" duration="37000" />
       <workItem from="1600069112988" duration="23137000" />
       <workItem from="1600118772071" duration="1000" />
+      <workItem from="1600298272386" duration="1645000" />
+      <workItem from="1600674355135" duration="7202000" />
     </task>
+    <task id="LOCAL-00001" summary="Basic Laravel Project with working Welcome/Detail/About Page.">
+      <created>1600298663769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600298663769</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic Laravel Project with working Welcome/Detail/About Page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Laravel Project with working Welcome/Detail/About Page." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1090" y="579" key="#Composer" timestamp="1599220688987">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1090" y="579" key="#Composer/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1599220688987" />
+    <state x="872" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600681457417">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600681457417" />
     <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600079678265">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -198,6 +246,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1058" y="610" key="ComposerInitDialogKey/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600078269761" />
+    <state x="3300" y="621" key="FileChooserDialogImpl" timestamp="1600299276295">
+      <screen x="2560" y="360" width="1920" height="1040" />
+    </state>
+    <state x="3300" y="621" key="FileChooserDialogImpl/0.0.2560.1400/2560.360.1920.1040@2560.360.1920.1040" timestamp="1600299276295" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1599953740212">
       <screen x="2560" y="360" width="1920" height="1040" />
     </state>
@@ -214,9 +266,17 @@
       <screen x="2560" y="360" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.2560.1400/2560.360.1920.1040@2560.360.1920.1040" timestamp="1599953740212" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1600072823679">
+    <state x="781" y="345" key="SettingsEditor" timestamp="1600681074597">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600072823679" />
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600681074597" />
+    <state x="3112" y="613" key="Vcs.Push.Dialog.v2" timestamp="1600299128376">
+      <screen x="2560" y="360" width="1920" height="1040" />
+    </state>
+    <state x="3112" y="613" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.360.1920.1040@2560.360.1920.1040" timestamp="1600299128376" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1600681642927">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600681642927" />
   </component>
 </project>
