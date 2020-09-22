@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 Route::get('/', 'DetailController@show')->name('welcome');
 
-Route::get('/{id}', 'DetailController@show')->name('welcome');
+//Route::get('/{id}', 'DetailController@show')->name('welcome');
 
 Route::get('/about', 'AboutController@show')->name('about');
 

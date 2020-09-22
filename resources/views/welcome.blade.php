@@ -36,6 +36,27 @@
                 </tr>
             </table>
             @endforeach
+            <a href="{{route('welcome')}}">Welcome</a>
+            <a href="{{route('add')}}">Add</a>
+        </div>
+        <div>
+            <table>
+                <tr>
+                    <td>{{$newsitem[0]['id']}}</td>
+                    <td>{{$newsitem[0]['title']}}</td>
+                    <td><a href="detail/{{$newsitem[0]['id']}}">Detail</a></td>
+                </tr>
+                <tr>
+                    <td>{{$newsitem[1]['id']}}</td>
+                    <td>{{$newsitem[1]['title']}}</td>
+                    <td><a href="detail/{{$newsitem[1]['id']}}">Detail</a></td>
+                </tr>
+                <tr>
+                    <td>{{$newsitem[2]['id']}}</td>
+                    <td>{{$newsitem[2]['title']}}</td>
+                    <td><a href="{{route('details', $newsitem[2]['id'])}}">Detail</a></td>
+                </tr>
+            </table>
         </div>
     </div>
     </div>

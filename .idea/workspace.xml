@@ -10,8 +10,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c45744-3126-4afe-8be0-df4a5140f2ed" name="Default Changelist" comment="rollback DetailController.php">
+    <list default="true" id="03c45744-3126-4afe-8be0-df4a5140f2ed" name="Default Changelist" comment="workspace.xml change">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AddController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AddController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DetailController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/DetailController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/NewsItem.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/NewsItem.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +201,7 @@
       <workItem from="1600118772071" duration="1000" />
       <workItem from="1600298272386" duration="1645000" />
       <workItem from="1600674355135" duration="21726000" />
-      <workItem from="1600772387609" duration="7494000" />
+      <workItem from="1600772387609" duration="9259000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Laravel Project with working Welcome/Detail/About Page.">
       <created>1600298663769</created>
@@ -251,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600781482589</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="workspace.xml change">
+      <created>1600797288336</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600797288336</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,10 +349,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1127" y="613" key="VCS.ChangelistChooser/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600796404007" />
-    <state x="736" y="341" key="Vcs.Push.Dialog.v2" timestamp="1600780963785">
+    <state x="736" y="341" key="Vcs.Push.Dialog.v2" timestamp="1600797575904">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="736" y="341" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600780963785" />
+    <state x="736" y="341" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600797575904" />
     <state x="3112" y="613" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.360.1920.1040@2560.360.1920.1040" timestamp="1600299128376" />
     <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600780573952">
       <screen x="0" y="0" width="2560" height="1400" />
