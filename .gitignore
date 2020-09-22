@@ -22,7 +22,9 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 
-.idea
 .vscode
 
 .env.backup
+.idea
+.idea/workspace.xml
+
