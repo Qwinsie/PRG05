@@ -10,15 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c45744-3126-4afe-8be0-df4a5140f2ed" name="Default Changelist" comment="workspace.xml update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AddController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AddController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/DetailController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/DetailController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/NewsItem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="03c45744-3126-4afe-8be0-df4a5140f2ed" name="Default Changelist" comment="Added two new migrations." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +191,7 @@
       <workItem from="1600118772071" duration="1000" />
       <workItem from="1600298272386" duration="1645000" />
       <workItem from="1600674355135" duration="21726000" />
-      <workItem from="1600772387609" duration="4043000" />
+      <workItem from="1600772387609" duration="4503000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Laravel Project with working Welcome/Detail/About Page.">
       <created>1600298663769</created>
@@ -222,7 +214,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600682904334</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commented the 'add' function.">
+      <created>1600780245753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600780245753</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Edited the NewsItem.php">
+      <created>1600780325841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600780325841</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added two new migrations.">
+      <created>1600780350892</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600780350892</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +258,10 @@
     <MESSAGE value="Adding .idea, .vscode and _ide_helper.php in .gitignore" />
     <MESSAGE value="Commenting code that doesn't belong here." />
     <MESSAGE value="workspace.xml update" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml update" />
+    <MESSAGE value="Commented the 'add' function." />
+    <MESSAGE value="Edited the NewsItem.php" />
+    <MESSAGE value="Added two new migrations." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added two new migrations." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1090" y="579" key="#Composer" timestamp="1599220688987">
@@ -268,9 +284,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1058" y="610" key="ComposerInitDialogKey/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600078269761" />
-    <state x="3300" y="621" key="FileChooserDialogImpl" timestamp="1600772923377">
-      <screen x="2560" y="360" width="1920" height="1040" />
+    <state x="987" y="351" key="FileChooserDialogImpl" timestamp="1600780643004">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="987" y="351" key="FileChooserDialogImpl/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600780643004" />
     <state x="3300" y="621" key="FileChooserDialogImpl/0.0.2560.1400/2560.360.1920.1040@2560.360.1920.1040" timestamp="1600772923377" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1599953740212">
       <screen x="2560" y="360" width="1920" height="1040" />
@@ -292,10 +309,15 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600681074597" />
-    <state x="3112" y="613" key="Vcs.Push.Dialog.v2" timestamp="1600299128376">
-      <screen x="2560" y="360" width="1920" height="1040" />
+    <state x="736" y="341" key="Vcs.Push.Dialog.v2" timestamp="1600780648434">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="736" y="341" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600780648434" />
     <state x="3112" y="613" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.360.1920.1040@2560.360.1920.1040" timestamp="1600299128376" />
+    <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600780573952">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600780573952" />
     <state x="936" y="330" key="run.anything.popup" timestamp="1600695936255">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
