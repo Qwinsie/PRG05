@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c45744-3126-4afe-8be0-df4a5140f2ed" name="Default Changelist" comment="workspace.xml change" />
+    <list default="true" id="03c45744-3126-4afe-8be0-df4a5140f2ed" name="Default Changelist" comment="rollback DetailController.php">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +193,7 @@
       <workItem from="1600118772071" duration="1000" />
       <workItem from="1600298272386" duration="1645000" />
       <workItem from="1600674355135" duration="21726000" />
-      <workItem from="1600772387609" duration="4812000" />
+      <workItem from="1600772387609" duration="7494000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Laravel Project with working Welcome/Detail/About Page.">
       <created>1600298663769</created>
@@ -242,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600780956605</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="workspace.xml change">
+      <created>1600781482589</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600781482589</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +301,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1058" y="610" key="ComposerInitDialogKey/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600078269761" />
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1600796553044">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600796553044" />
     <state x="987" y="351" key="FileChooserDialogImpl" timestamp="1600780643004">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -317,6 +330,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600681074597" />
+    <state x="1127" y="613" key="VCS.ChangelistChooser" timestamp="1600796404007">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1127" y="613" key="VCS.ChangelistChooser/0.0.2560.1400/2560.360.1920.1040@0.0.2560.1400" timestamp="1600796404007" />
     <state x="736" y="341" key="Vcs.Push.Dialog.v2" timestamp="1600780963785">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
