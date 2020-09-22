@@ -7,11 +7,23 @@ use Illuminate\Http\Request;
 
 class DetailController extends Controller
 {
-    public function show() {
-        $allItems = NewsItem::all();
+    public function show($id) {
 
-        return view('welcome', ['newsitem' => $allItems]);
+        $post = \DB::table('news_items')->where('id', $id)->first();
+
+//        dd($post);
+
+
+//        return view('welcome',)
+        $allItems = NewsItem::orderBy('created_at', 'desc')->get();
+
+        return view('welcome',
+            [
+                'newsitem' => $allItems,
+                '$post' => $post,
+            ]);
     }
+
     public function details($id) {
         $newItem = NewsItem::find($id);
 

@@ -11,11 +11,11 @@ class AddController extends Controller
         return view('add');
     }
 
-    public function add() {
-    $titlepost = $_POST['title'];
-
-    return view
-
-    }
+//    public function add() {
+//    $titlepost = $_POST['title'];
+//
+//    return view
+//
+//    }
 
 }
